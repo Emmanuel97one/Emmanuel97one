@@ -1,21 +1,70 @@
-# Emmanuel Irambona | EMMAPRO Tech
+Emmanuel Irambona | EMMAPRO Tech
 
-### Software Developer • Business Software Solutions • Founder of EMMAPRO Tech
+Software Developer • Business Software Solutions • Founder of EMMAPRO Tech
 
-Welcome to my official GitHub profile.
+Welcome to my official GitHub profile and the software development portfolio of EMMAPRO Tech.
 
-I am **Emmanuel Irambona**, a software developer and the developer behind **EMMAPRO Tech**, focused on designing and building professional software solutions for real business and operational environments.
+I am Emmanuel Irambona, a software developer and the developer behind EMMAPRO Tech, focused on designing and building professional software solutions for real business and operational environments.
 
-EMMAPRO Tech develops software for **pharmacy management, retail and point-of-sale operations, inventory and stock management, poultry farm management, financial operations, reporting, analytics, and business process automation**.
+EMMAPRO Tech develops specialized business software for pharmaceutical operations, retail and point-of-sale management, inventory and stock control, financial administration, poultry farm management, reporting, analytics, enterprise management and business process automation.
 
-Our goal is to transform complex day-to-day operations into structured, reliable and manageable digital workflows.
+Our software products are designed to help businesses organize complex operational workflows, improve information visibility, strengthen accountability and support sustainable growth.
 
-🌐 **Official Website:**  
-https://emmapro-tech-website.pages.dev
+🌐 Official Company & Product Websites
+
+🏢 EMMAPRO Tech — Official Company & Software Portfolio Website
+https://emmapro-tech-website.pages.dev/
+
+The central EMMAPRO Tech website presents our wider software portfolio, including EMMAPRO PHARMA, EMMAPRO SHOP and AVIDATA PRO.
+
+💊 EMMAPRO PHARMA — Official Pharmacy Management Software Website
+https://www.emmapro-pharma.com/
+
+The dedicated EMMAPRO PHARMA website presents our professional pharmacy management platform, pharmaceutical inventory intelligence, dispensing, procurement, financial control, insurance, wholesale operations, quotations, connected Web access, software editions, demonstrations and commercial partnership opportunities.
+
+🎯 Our Mission
+
+To develop reliable, structured and professional business management software that transforms complex daily operations into more manageable digital workflows.
+
+Our work emphasizes operational reliability, practical usability, business intelligence, security, scalability and long-term software development.
+---
+# 🚀 EMMAPRO Tech Software Portfolio
+
+### Professional Business Software • Industry-Specific Solutions • Enterprise Management Platforms
+
+**EMMAPRO Tech** develops professional software solutions designed to help businesses manage complex operations, improve operational efficiency, strengthen financial control and support sustainable organizational growth.
+
+Our software portfolio brings together specialized platforms for **pharmaceutical management, retail and commercial operations, and poultry farm enterprise management**.
+
+Each product is developed around the specific requirements of its industry, combining structured business workflows, inventory management, financial operations, reporting, analytics, user administration and operational intelligence.
+
+### 🎯 Our Software Development Vision
+
+Our objective is to deliver **complete, integrated and scalable business-management systems**, rather than isolated applications.
+
+We focus on five essential principles:
+
+- 🏗️ **Operational Integration** — Connecting critical business processes within structured and consistent workflows.
+- 🛡️ **Security & Accountability** — Protecting business information through controlled access, permissions and transaction traceability.
+- 📊 **Business Intelligence** — Transforming operational records into meaningful management insights.
+- 🌍 **Scalability & Flexibility** — Supporting business growth, multiple users and increasingly complex operational requirements.
+- 👥 **Professional User Experience** — Designing practical, reliable software for real working environments.
+
+### 💼 Our Commercial Software Portfolio
+
+Our portfolio currently includes three principal software platforms:
+
+**💊 EMMAPRO PHARMA** — Professional Pharmacy Management Software
+
+**🛒 EMMAPRO SHOP** — Retail, Point-of-Sale & Inventory Management Software
+
+**🐔 AVIDATA PRO** — Poultry Farm & Enterprise Management Software
+
+Each platform maintains its own specialized capabilities, licensing editions, operational architecture and commercial positioning.
+
+The following sections provide detailed information about each product.
 
 ---
-
-# 🚀 EMMAPRO Tech Software Portfolio
 
 ## 💊 EMMAPRO PHARMA
 
